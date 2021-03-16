@@ -1,7 +1,6 @@
 body{
 margin:0px;
 }
-
 #header{
 background:darkred;
 width:715px;
@@ -20,10 +19,18 @@ position:absolute;
 left:190px;
 top:100px;
 }
+#news{
+background:yellow;
+width:150px;
+height:280px;
+position:absolute;
+left:365px;
+top:10px;
+}
 #footer{
 background:darkred;
 width:715px;
 height:30px;
-}
+}git 
 
 
